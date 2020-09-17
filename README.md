@@ -1,6 +1,8 @@
 # Cryptocurrency-Market-Analysis
 Using Data Mining techniques and Time Series Analysis to analyse and predict Crpytocurrency Market data.
 
+!
+
 ## Problem Statement: The purpose of this project is to find the right Cryptocurrency (Bitcoin, Ethereum, Ripple) one should invest in based on the past years data.
 The project was done using R. It has given following insights:
 1. Bitcoin covers maximum market of cryptocurrencies.
